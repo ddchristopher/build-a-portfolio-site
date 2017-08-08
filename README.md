@@ -1,2 +1,6 @@
-# build-a-portfolio-site
-Build a Portfolio Site Project for Udacity Front-End Nanodegree
+# Build-a-Portfolio-Site
+
+This is a project for the Udacity Front-End Nanodegree program. The site is designed around a provided mockup and customized.
+
+
+
